@@ -1,6 +1,6 @@
 # Write a blog post Data Science Udacity - Seattle AirBnB
 ## 1. Libraries
-The libraries that I used were
+The libraries that I used were:
 - numpy
 - pandas
 - matplotlib
